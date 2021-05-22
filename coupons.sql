@@ -1,0 +1,54 @@
+
+
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (1, 25, 32, '36', '1993-07-20 07:47:05', '2020-07-12 05:31:05');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (2, 13, 2, '169', '1990-04-29 14:46:41', '2020-12-29 14:55:21');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (3, 58, 29, '150', '1988-11-23 14:10:48', '2020-05-22 10:41:08');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (4, 34, 32, '57', '1982-02-21 04:52:17', '2021-01-26 17:53:30');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (5, 66, 7, '20', '1985-01-12 21:48:28', '2020-09-10 20:36:39');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (6, 21, 90, '181', '1970-08-01 03:17:30', '2020-10-23 06:18:21');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (7, 34, 7, '158', '2003-05-26 08:07:28', '2020-11-21 18:30:57');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (8, 64, 10, '163', '1988-04-24 21:32:49', '2021-01-15 07:03:17');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (9, 16, 2, '113', '1976-05-12 02:54:39', '2020-08-17 20:19:22');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (10, 34, 93, '39', '2008-08-28 15:12:27', '2021-02-16 21:21:44');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (11, 15, 21, '55', '2014-06-20 06:19:52', '2020-09-09 20:08:27');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (12, 35, 17, '119', '1983-04-19 16:31:03', '2021-05-13 06:17:07');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (13, 91, 87, '85', '1986-03-21 13:17:37', '2021-03-29 14:06:36');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (14, 81, 40, '141', '2008-07-25 01:39:29', '2020-11-25 09:24:48');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (15, 1, 43, '100', '1975-07-08 00:19:04', '2020-09-07 12:31:53');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (16, 12, 67, '61', '1976-10-28 04:18:04', '2020-11-14 18:37:00');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (17, 85, 74, '70', '1997-11-27 20:15:06', '2020-09-13 13:26:49');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (18, 63, 21, '117', '2019-07-22 17:24:22', '2020-09-02 04:51:47');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (19, 48, 50, '72', '2020-04-10 04:19:04', '2021-04-15 01:33:18');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (20, 74, 45, '176', '1995-07-06 21:23:03', '2020-12-08 16:18:55');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (21, 17, 22, '77', '1987-03-15 08:19:31', '2020-10-07 02:11:00');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (22, 43, 37, '185', '1984-12-27 09:16:34', '2020-08-11 20:37:05');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (23, 20, 52, '144', '1980-05-08 21:11:30', '2020-06-09 12:44:15');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (24, 1, 83, '127', '1991-07-05 13:22:52', '2021-03-15 21:32:53');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (25, 87, 51, '108', '2007-06-26 09:27:10', '2020-06-12 23:59:11');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (26, 39, 81, '24', '1976-12-19 01:01:03', '2020-12-26 19:06:09');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (27, 98, 20, '87', '2020-11-24 02:36:46', '2021-04-09 11:33:19');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (28, 49, 70, '80', '1974-02-26 06:07:20', '2020-09-12 17:14:57');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (29, 3, 91, '62', '1998-04-21 09:15:10', '2020-07-05 00:03:00');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (30, 73, 21, '113', '1985-09-12 10:03:25', '2020-05-22 14:08:30');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (31, 24, 88, '100', '1974-07-03 12:58:36', '2021-04-25 17:09:42');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (32, 27, 22, '108', '1986-02-08 17:48:30', '2020-09-02 06:31:57');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (33, 80, 84, '5', '2012-09-01 10:09:21', '2021-05-14 22:32:29');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (34, 14, 16, '127', '2004-11-24 17:52:39', '2020-05-29 17:30:32');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (35, 27, 49, '41', '2014-10-26 20:19:06', '2021-05-12 17:40:49');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (36, 25, 78, '159', '2020-09-21 08:34:19', '2020-09-02 15:33:55');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (37, 39, 52, '176', '1973-07-07 22:12:54', '2021-05-05 19:03:08');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (38, 54, 70, '22', '1972-05-07 07:05:34', '2020-11-02 10:22:54');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (39, 83, 34, '131', '2009-07-25 13:30:36', '2021-04-10 09:17:28');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (40, 71, 97, '162', '2005-04-21 19:58:55', '2021-03-11 08:33:31');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (41, 19, 58, '95', '1986-12-14 23:53:10', '2021-04-01 05:59:25');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (42, 44, 81, '187', '2012-03-12 02:10:07', '2020-08-21 03:11:45');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (43, 54, 76, '81', '1998-05-03 19:54:35', '2020-07-19 08:34:39');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (44, 80, 12, '25', '2002-03-30 09:58:40', '2021-02-28 22:56:49');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (45, 39, 45, '124', '1972-07-07 04:06:42', '2020-08-01 15:30:39');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (46, 52, 89, '172', '2020-06-05 20:14:23', '2020-09-10 01:21:52');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (47, 46, 2, '14', '1987-06-29 15:03:01', '2020-12-21 09:31:35');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (48, 45, 25, '67', '1992-06-26 03:20:05', '2021-05-10 09:41:15');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (49, 62, 27, '150', '1996-09-16 08:00:53', '2020-08-06 05:31:41');
+INSERT INTO `coupons` (`id`, `user_id`, `from_product_user_id`, `size_coupon`, `date_end`, `created_at`) VALUES (50, 57, 94, '53', '2005-06-30 07:38:51', '2020-08-09 23:11:12');
+
+

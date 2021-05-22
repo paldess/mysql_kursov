@@ -1,0 +1,39 @@
+выборка всех товаров пользователя, категорий этих товаров и описание товара
+
+select concat(first_name, ' ', last_name) as users, 
+	name_product, 
+	categories, 
+	text_description
+	from users 
+		join products 
+			on users.id=products.user_id 
+		join product_categories 
+			on products.category_id = product_categories.id 
+		join product_descriptions 
+			on product_descriptions.product_id = products.id 
+	order by users;
+	
+
+выборка таблицы от какого пользователя, текст сообщения, какому пользователю и кол-во сообщений пользователя
+
+select concat(first_name, ' ', last_name) as from_users, 
+	left(messages.text_messages, 20) as messages,
+	(select concat(first_name, ' ', last_name) from users where users.id = messages.to_user_id ) as to_user,
+	count(messages.text_messages) over(partition by concat(first_name, ' ', last_name)) as total_messages_user
+	from users 
+		join messages 
+			on users.id=messages.from_user_id 
+		order by from_users;
+
+
+выборка всех ордеров, имени пользователя совершившего покупку, наименование товара и категория товара
+
+select orders.id, concat(first_name, ' ', last_name) as name, name_product, categories 
+	from users 
+		join orders 
+			on orders.user_id = users.id 
+		join products 
+			on orders.product_id = products.id 
+		join product_categories 
+			on products.category_id = product_categories.id 
+	order by orders.id;
